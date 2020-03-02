@@ -1,0 +1,35 @@
+Problemas de video 
+
+Tienes que ir en la carpeta de mis documentos ( donde la carpeta de GEARS OF WAR ) te vas en config, y en el archivo WAR ENGINE USER SETTING.INI lo abres.
+BUSCA EL WINDRV.......LE PONES MANUALMENTE LA RESOLUCION y lo GUARDAS
+EJEMPLO:
+[WinDrv.WindowsClient]
+StartupResolutionX=1920 (XXXXXX)
+StartupResolutionY=1080 (XXXXXX)   
+StartupFullscreen=True
+DisplayGamma=1.800000
+
+
+***************************************************************************************
+El juego se salva automaticamente pero no lo hace en la carpeta correcta... Aca posteo los pasos que yo sigo y asi puedo continuar en donde deje el juego por ulima vez...
+
+Ya que lograste jugar y avanzar, te abras dado cuenta que hay puntos de control los cuales segun se guardan y cuando regresas a jugar en otra ocacion no hay nada guardado.
+
+Para solucionar esto hace lo siguiente:
+
+Primero creo una cuenta en Gear Of War apretando f1 dentro del juego.
+
+Los puntos guardados se encuentra en la carpeta Checkpoints ke esta en la siguiente direccion de tu pc:
+
+C:\Archivos de programa\Microsoft Games\Gears of War\WarGame\Checkpoints
+
+Ok, ya que los tienes ahi, lo unico que haces es copiarlos (No cortarlos) y pegarlos en la carpeta Checkpoints que esta en mis documentos y esta es la ruta para llegar hasta ahi:
+
+C:\Documents and Settings\Admin\Mis documentos\My Games\Gears of War for Windows\WarGame\Checkpoints
+
+NOTA: Admin es el nombre de ususario de Windows, el mio es "Pablo".
+
+una vez ahi, pega los archivos copiados que te mencione primero.
+
+Cada vez que juegues entra a tu cuenta y listo, de ahora en mas tu partidas seran guardadas.
+
